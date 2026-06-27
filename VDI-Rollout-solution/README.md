@@ -18,7 +18,6 @@ The project focuses on designing a structured rollout process, considering techn
 
 * Virtual Desktop Infrastructure (VDI)
 * Windows Client Management
-* Active Directory
 * Network Infrastructure
 * Documentation & Project Planning
 
@@ -29,8 +28,6 @@ VDI-Rollout-solution/
 ├── README.md
 ├── VDI-project-doku.pdf
 ```
-
-x
 
 ## Skills Demonstrated
 
