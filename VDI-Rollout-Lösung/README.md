@@ -27,7 +27,11 @@ Der Schwerpunkt liegt auf der Entwicklung eines strukturierten Rollout-Prozesses
 ```text
 VDI-Rollout-Lösung/
 ├── README.md
-├── VDI-Projektdokumentation.pdf
+├── Dokumentation/
+│   ├── VDI-Phase-0.png
+│   ├── VDI-Phase-1.png
+│   ├── VDI-Phase-2.png
+│   └── VDI_Infrastruktur_Dokumentation.pdf
 ```
 
 ## Nachgewiesene Fähigkeiten
