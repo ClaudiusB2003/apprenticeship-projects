@@ -4,7 +4,7 @@
 
 Dieses Projekt dokumentiert die Planung und Umsetzung eines Rollouts einer Virtual Desktop Infrastructure (VDI) im Rahmen meiner Ausbildung zum Fachinformatiker für Systemintegration.
 
-Der Schwerpunkt liegt auf der Entwicklung eines strukturierten Rollout-Prozesses unter Berücksichtigung technischer Anforderungen, der Bereitstellungsplanung, einer umfassenden Dokumentation sowie bewährter Methoden für die Einführung einer VDI-Umgebung.
+Der Schwerpunkt liegt auf der Entwicklung eines strukturierten Rollout-Prozesses unter Berücksichtigung technischer Anforderungen, der Bereitstellungsplanung, einer umfassenden Dokumentation sowie bewährter Methoden für die Einführung einer VDI-Umgebung. Die Dokumentation wurde aus datenschutzrechtlichen Gründen anonymisiert.
 
 ## Projektziele
 
