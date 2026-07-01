@@ -37,7 +37,12 @@ Der Schwerpunkt liegt auf dem Aufbau einer stabilen und skalierbaren Virtualisie
 Hyper-V-Infrastrukturprojekt/
 ├── README.md
 ├── Dokumentation/
-│   ├── HyperV-Architektur.png
-│   ├── Netzwerkplan.png
-│   ├── VM-Übersicht.png
+│   ├── HyperV-Topologie.png
 │   └── HyperV_Infrastruktur_Dokumentation.pdf
+````
+
+## Autor
+
+**Claudius B.**  
+Auszubildender zum Fachinformatiker für Systemintegration
+
