@@ -22,6 +22,8 @@ Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageE
 ```text
 mcp-servicedesk-plus/
 ├── README.md
+├── mock_server.py
+├── my_server.py 
 ```
 
 ## Nachgewiesene Fähigkeiten
