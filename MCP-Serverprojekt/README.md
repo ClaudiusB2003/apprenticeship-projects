@@ -2,7 +2,7 @@
 
 ## Übersicht
 Dieses Projekt dokumentiert die Entwicklung eines MCP-Servers (Model Context Protocol) im Rahmen meiner Ausbildung zum Fachinformatiker für Systemintegration.
-Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageEngine ServiceDesk Plus) an ein Sprachmodell, sodass Tickets über natürliche Sprache abgefragt, angelegt und bearbeitet werden können. Zusätzlich wurde ein lokaler API-Simulator entwickelt, um unabhängig vom Produktivsystem entwickeln und testen zu können.
+Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageEngine ServiceDesk Plus) an ein Sprachmodell, sodass Tickets über natürliche Sprache abgefragt, angelegt und bearbeitet werden können. Zusätzlich wurde ein lokaler API-Simulator (bzw. mock-server) entwickelt, um unabhängig vom Produktivsystem entwickeln und testen zu können.
 
 ## Projektziele
 - Entwicklung eines MCP-Servers zur Anbindung einer REST-API
