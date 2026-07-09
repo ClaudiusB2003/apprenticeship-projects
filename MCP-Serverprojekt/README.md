@@ -1,5 +1,3 @@
-
-Readme · MD
 # MCP Server für ManageEngine ServiceDesk Plus
  
 > Ausbildungsprojekt: Anbindung eines Ticketsystems (ManageEngine ServiceDesk Plus) an ein LLM über das **Model Context Protocol (MCP)**, gebaut mit [FastMCP](https://gofastmcp.com).
