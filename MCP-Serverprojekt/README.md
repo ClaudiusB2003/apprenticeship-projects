@@ -22,17 +22,32 @@ Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageE
 ```text
 MCP-Serverprojekt/
 ├── README.md
+│
 ├── mock_server/
-│   ├── mock_server.py
-│   └── 
+│   ├── __init__.py
+│   └── mock_server.py
+│
 ├── server/
-│   ├── server.py
-│   └── 
-├── documentation/
-│   ├── 1. Bibliotheken.md
-│   ├── 2. Initialisierung_MCP_Server.md
-│   ├── 3. Laden_der_Konfiguration.md
-│   ├── 4. Exception-Klasse.md
+│   ├── __init__.py
+│   └── server.py
+│
+└── documentation/
+    ├── README.md
+    │
+    ├── 01-bibliotheken/
+    │   └── README.md
+    │
+    ├── 02-initialisierung-mcp-server/
+    │   └── README.md
+    │
+    ├── 03-laden-der-konfiguration/
+    │   └── README.md
+    │
+    ├── 04-exception-klasse/
+    │   └── README.md
+    │
+    └── 05-api-funktion/
+        └── README.md
 ```
 
 ## Nachgewiesene Fähigkeiten
