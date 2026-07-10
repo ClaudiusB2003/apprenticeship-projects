@@ -29,7 +29,7 @@ MCP-Serverprojekt/
 │   ├── server.py
 │   └── 
 ├── documentation/
-│   ├── 
+│   ├── Bibliotheken.md
 ```
 
 ## Nachgewiesene Fähigkeiten
