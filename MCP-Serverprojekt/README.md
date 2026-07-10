@@ -29,7 +29,10 @@ MCP-Serverprojekt/
 │   ├── server.py
 │   └── 
 ├── documentation/
-│   ├── Bibliotheken.md
+    ├── 1. Bibliotheken.md
+    └── 2. Initialisierung_MCP_Server.md
+    └── 3. Laden_der_Konfiguration.md
+    └── 4. Exception-Klasse.md
 ```
 
 ## Nachgewiesene Fähigkeiten
