@@ -20,10 +20,14 @@ Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageE
 
 ## Repository-Struktur
 ```text
-mcp-servicedesk-plus/
+MCP-Serverprojekt/
 ├── README.md
-├── mock_server.py
-├── my_server.py 
+├── mock_server/
+│   ├── mock_server.py
+│   └── 
+├── server/
+│   ├── server.py
+│   └── 
 ```
 
 ## Nachgewiesene Fähigkeiten
