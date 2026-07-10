@@ -6,17 +6,6 @@ Dieses Projekt dokumentiert die Entwicklung eines MCP-Servers (Model Context Pro
 Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageEngine ServiceDesk Plus) an ein Sprachmodell, sodass Tickets über natürliche Sprache abgefragt, angelegt und bearbeitet werden können. 
 Zu Test Zwecken wurde ein lokaler API-Simulator (Mock-Server) entwickelt, um unabhängig vom Produktivsystem entwickeln und testen zu können.
 
-## Verwendete Technologien und Konzepte
-
-| Bereich | Technologie / Konzept |
-|---|---|
-| MCP-Server | Model Context Protocol (MCP) / FastMCP |
-| Sprache | Python (asynchrone Programmierung) |
-| API-Anbindung | httpx |
-| Mock-Server | FastAPI |
-| Zielsystem | ManageEngine ServiceDesk Plus REST-API |
-| Sicherheit | Umgebungsvariablen / Secrets-Handling |
-
 ## Repository-Struktur
 
 ```text
