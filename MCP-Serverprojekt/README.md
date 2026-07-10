@@ -28,6 +28,8 @@ MCP-Serverprojekt/
 ├── server/
 │   ├── server.py
 │   └── 
+├── documentation/
+│   ├── 
 ```
 
 ## Nachgewiesene Fähigkeiten
