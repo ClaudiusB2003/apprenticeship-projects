@@ -18,6 +18,8 @@ MCP-Serverprojekt/
 │
 ├── server/                
 │   ├── __init__.py
+│   ├── .gitignore
+│   ├── .env
 │   └── server.py
 │
 └── documentation/          
