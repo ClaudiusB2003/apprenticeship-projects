@@ -32,22 +32,21 @@ MCP-Serverprojekt/
 │   └── server.py
 │
 └── documentation/
-    ├── README.md
     │
     ├── 01-bibliotheken/
-    │   └── README.md
+    │   └── bibliotheken.md
     │
     ├── 02-initialisierung-mcp-server/
-    │   └── README.md
+    │   └── initialisierung.md
     │
     ├── 03-laden-der-konfiguration/
-    │   └── README.md
+    │   └── laden-der-konfiguration.md
     │
     ├── 04-exception-klasse/
-    │   └── README.md
+    │   └── exception-klasse.md
     │
     └── 05-api-funktion/
-        └── README.md
+        └── api-function.md
 ```
 
 ## Nachgewiesene Fähigkeiten
