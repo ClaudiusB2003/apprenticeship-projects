@@ -1,4 +1,4 @@
-# Exception Klasse
+# 1. Exception Klasse
 ```python
 class SdpError(Exception):
     """Fehler bei der Kommunikation mit ServiceDesk Plus."""
