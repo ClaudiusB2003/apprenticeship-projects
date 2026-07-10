@@ -34,19 +34,19 @@ MCP-Serverprojekt/
 └── documentation/
     │
     ├── 01-bibliotheken/
-    │   └── bibliotheken.md
+    │   └── README.md
     │
     ├── 02-initialisierung-mcp-server/
-    │   └── initialisierung.md
+    │   └── README.md
     │
     ├── 03-laden-der-konfiguration/
-    │   └── laden-der-konfiguration.md
+    │   └── README.md
     │
     ├── 04-exception-klasse/
-    │   └── exception-klasse.md
+    │   └── README.md
     │
     └── 05-api-funktion/
-        └── api-function.md
+        └── README.md
 ```
 
 ## Nachgewiesene Fähigkeiten
