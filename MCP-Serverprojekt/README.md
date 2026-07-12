@@ -1,13 +1,13 @@
 # MCP-Server für ManageEngine ServiceDesk Plus
 
-## Übersicht
+> 🚧 **Work in Progress** — Dieses Projekt befindet sich aktuell in der Beta-/Entwicklungsphase. Die Anbindung erfolgt bisher ausschließlich an einen lokalen Mock-Server; die Umstellung auf die produktive ServiceDesk-Plus-Instanz ist für eine spätere Phase geplant. 
 
+## Übersicht
 Dieses Projekt dokumentiert die Entwicklung eines MCP-Servers (Model Context Protocol) im Rahmen meiner Ausbildung zum Fachinformatiker für Systemintegration.
 Der Schwerpunkt liegt auf der Anbindung eines bestehenden Ticketsystems (ManageEngine ServiceDesk Plus) an ein Sprachmodell, sodass Tickets über natürliche Sprache abgefragt, angelegt und bearbeitet werden können. 
 Zu Test Zwecken wurde ein lokaler API-Simulator (Mock-Server) entwickelt, um unabhängig vom Produktivsystem entwickeln und testen zu können.
 
 ## Repository-Struktur
-
 ```text
 MCP-Serverprojekt/
 ├── README.md
@@ -36,7 +36,6 @@ MCP-Serverprojekt/
 ```
 
 ## Nachgewiesene Fähigkeiten
-
 - Anbindung externer REST-APIs
 - Entwicklung und Testen mit Mock-Servern
 - Fehlerbehandlung in produktionsnahem Code
@@ -44,10 +43,8 @@ MCP-Serverprojekt/
 - Technische Dokumentation
 
 ## Ausblick
-
 Nach Abschluss dieser Beta-Phase folgt die Anbindung an die reale ServiceDesk-Plus-Instanz, inklusive Anpassung der API-Endpunkte, Authentifizierung und Fehlerbehandlung für den Produktivbetrieb.
 
 ## Autor
-
 **Claudius B.**
 Auszubildender zum Fachinformatiker für Systemintegration
