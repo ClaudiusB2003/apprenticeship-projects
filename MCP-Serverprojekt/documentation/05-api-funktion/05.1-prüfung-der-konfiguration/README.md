@@ -10,6 +10,9 @@ async def sdp_request(method: str, endpoint: str, input_data: dict | None = None
             "SDP_BASE_URL und/oder SDP_API_KEY sind nicht gesetzt. "
             "Bitte als Umgebungsvariablen konfigurieren."
         )
+
+    headers = {"TECHNICIAN_KEY": SDP_API_KEY}
+    url = f"{SDP_BASE_URL}/{endpoint.lstrip('/')}"
 ```
 
 Wenn die Umgebungsvariablen fehlen, bricht die Funktion den Code mit einer klaren Fehlermeldung ab.
