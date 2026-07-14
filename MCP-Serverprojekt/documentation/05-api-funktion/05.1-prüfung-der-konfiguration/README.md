@@ -16,3 +16,4 @@ async def sdp_request(method: str, endpoint: str, input_data: dict | None = None
 ```
 
 Wenn die Umgebungsvariablen fehlen, bricht die Funktion den Code mit einer klaren Fehlermeldung ab.
+Service Desk Plus authentifiziert sich über den header: "TECHNICIAN_KEY". 
