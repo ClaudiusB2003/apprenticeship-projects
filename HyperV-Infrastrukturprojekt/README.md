@@ -1,4 +1,4 @@
-# Hyper-V Infrastrukturprojekt
+# Hyper-V Infrastrukturprojekt (Abschlussprojekt)
 
 > 🚧 **Work in Progress** — Dieses Projekt wird laufend erweitert. Aktuell liegt der Fokus auf der Basis-Infrastruktur (VMs, Netzwerk, Storage).
 
