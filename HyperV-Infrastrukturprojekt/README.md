@@ -27,6 +27,7 @@ Der Schwerpunkt liegt auf dem Aufbau einer stabilen und skalierbaren Virtualisie
 - IP-Adressierung und Subnetting
 - pfsense Firewall Implementation
 - IT-Infrastrukturplanung
+- Homeoffice Anbinung über IPSec Tunnel
 
 ---
 
