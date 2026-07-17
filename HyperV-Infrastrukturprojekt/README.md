@@ -23,8 +23,9 @@ Der Schwerpunkt liegt auf dem Aufbau einer stabilen und skalierbaren Virtualisie
 - Windows Server
 - Virtuelle Maschinen (VMs)
 - Netzwerkvirtualisierung (vSwitch, VLANs)
-- Active Directory Grundlagen (falls genutzt)
+- Active Directory Grundlagen 
 - IP-Adressierung und Subnetting
+- pfsense Firewall Implementation
 - IT-Infrastrukturplanung
 
 ---
