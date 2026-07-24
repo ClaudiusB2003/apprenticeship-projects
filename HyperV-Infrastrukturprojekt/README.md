@@ -6,7 +6,7 @@ Dokumentation eines vollständig virtualisierten IT-Infrastruktur-Projekts (Hype
 
 ## Topologie
 
-![Netzwerktopologie](images/topologie.jpeg)
+![Netzwerktopologie](topologie.jpeg)
 
 ## Inhaltsverzeichnis
 
