@@ -12,12 +12,6 @@ Der Schwerpunkt liegt auf der Entwicklung eines strukturierten Rollout-Prozesses
 - Erstellung einer professionellen Projektdokumentation
 - Erstellung einer grafischen Lösung zur Visualisierung des VDI-Rollouts
 
-## Verwendete Technologien und Konzepte
-- Virtual Desktop Infrastructure (VDI)
-- Windows-Clientverwaltung
-- Netzwerkinfrastruktur
-- Projektplanung und technische Dokumentation
-
 ## Repository-Struktur
 ```text
 VDI-Rollout-Lösung/
