@@ -4,6 +4,10 @@ Von **Claudius Blazek**
 
 Dokumentation eines vollständig virtualisierten IT-Infrastruktur-Projekts (Hyper-V, pfSense, Active Directory, VLAN-Segmentierung, Zabbix Monitoring) als Lern- und Testplattform.
 
+## Topologie
+
+![Netzwerktopologie](images/topologie.jpeg)
+
 ## Inhaltsverzeichnis
 
 1. [Projektbeschreibung](docs/01-projektbeschreibung.md)
