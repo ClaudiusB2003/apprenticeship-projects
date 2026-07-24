@@ -34,5 +34,3 @@ Dokumentation eines vollständig virtualisierten IT-Infrastruktur-Projekts (Hype
 5. [Gelernte Konzepte](docs/05-gelernte-konzepte.md)
 
 ---
-
-> ⚠️ **Hinweis zur Sicherheit:** Diese Dokumentation enthält Beispiel-Zugangsdaten einer rein virtuellen Testumgebung. Falls dieses Repository öffentlich ist oder wird, empfiehlt es sich, Passwörter vor dem Push durch Platzhalter (z. B. `<REDACTED>`) zu ersetzen oder das Repository auf privat zu stellen.
